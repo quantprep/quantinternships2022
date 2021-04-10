@@ -1,6 +1,6 @@
 # Summer 2022 Quant Internships 💹 🐱‍💻
 
-🔥 [Subscribe](https://quantprep.substack.com/) to our newsletter: stay up-to-date with the newest job postings and learn how to ace your interviews 🔥
+🔥 [Subscribe](https://quantprep.substack.com/) to our newsletter: get the newest job postings and learn how to ace your interviews 🔥
 
 🎓 Head over to the New Grad List here 🎓
 
