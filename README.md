@@ -30,7 +30,9 @@ Top internship companies (subjectively ranked based on perception, culture, prog
 
 4️⃣ Two Sigma - IMC - Optiver. 
 
-5️⃣ Akuna - DRW - SIG. 
+5️⃣ Akuna - DRW - SIG - Virtu. 
+
+⚠️ Disclaimer: this is just a very rough ranking based on highly subjective opinions. Ideally we'd have separate rankings for SWE, QR, QT and separate rankings for culture, pay etc but this should do for now. ⚠️
 
 ------
 
